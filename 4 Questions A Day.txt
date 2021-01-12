@@ -1,0 +1,9 @@
+Day 1 [] 
+
+1] Managed & unmanaged code 
+2] boxing & unBoxing    [https://www.tutorialsteacher.com/articles/boxing-unboxing-in-csharp]
+3] What is ArrayPool?   [https://www.infoworld.com/article/3596289/how-to-use-arraypool-and-memorypool-in-c.html]
+4] Public ,static and void
+5] break & continue     [https://www.c-sharpcorner.com/UploadFile/puranindia/C-Sharp-interview-questions/]
+
+Day 2
